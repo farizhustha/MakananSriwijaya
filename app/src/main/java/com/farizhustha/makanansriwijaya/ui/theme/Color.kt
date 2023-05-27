@@ -9,3 +9,9 @@ val Pink80 = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
+
+val Sky = Color(0xFF0096FB)
+
+val Primary = Color(0xFFCC2B36)
+val Secondary = Color(0xFFE49601)
+val Tertiary = Color(0xFF8A8885)

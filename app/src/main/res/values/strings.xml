@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MakananSriwijaya</string>
+    <string name="app_name">Makanan Sriwijaya</string>
+    <string name="place_holder_search">Cari Makanan</string>
+    <string name="title_home_screen">Makanan</string>
+    <string name="profile_name">Fariz Hustha</string>
+    <string name="profile_email">farizhustha123@gmail.com</string>
 </resources>

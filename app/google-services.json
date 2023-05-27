@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "955480624827",
+    "project_id": "sriwijayaculture",
+    "storage_bucket": "sriwijayaculture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955480624827:android:b46d061d99448e1472a39e",
+        "android_client_info": {
+          "package_name": "com.example.makanansriwijaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955480624827-80ngbjsft95gmbh34sca1me1ps0ojdq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUj_GZlFABmdgB0ha_aQ49XdsltetYQb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955480624827-80ngbjsft95gmbh34sca1me1ps0ojdq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955480624827-uj8oj65ivtgvfsp1d8ea172tavo8vt9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sriwijayaCulture"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955480624827:android:6b92fe0a2f144f1a72a39e",
+        "android_client_info": {
+          "package_name": "com.example.sriwijaya_culture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955480624827-80ngbjsft95gmbh34sca1me1ps0ojdq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUj_GZlFABmdgB0ha_aQ49XdsltetYQb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955480624827-80ngbjsft95gmbh34sca1me1ps0ojdq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955480624827-uj8oj65ivtgvfsp1d8ea172tavo8vt9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sriwijayaCulture"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955480624827:android:f8e5b94c2a7ed12272a39e",
+        "android_client_info": {
+          "package_name": "com.farizhustha.makanansriwijaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955480624827-kivr4iisid0v53tg4ltbqn2sr7i2lp3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farizhustha.makanansriwijaya",
+            "certificate_hash": "c951f69702ca319a86a7a2b94c273c7c9dd771a7"
+          }
+        },
+        {
+          "client_id": "955480624827-80ngbjsft95gmbh34sca1me1ps0ojdq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUj_GZlFABmdgB0ha_aQ49XdsltetYQb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955480624827-80ngbjsft95gmbh34sca1me1ps0ojdq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955480624827-uj8oj65ivtgvfsp1d8ea172tavo8vt9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sriwijayaCulture"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
